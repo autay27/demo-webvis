@@ -1,0 +1,3 @@
+[submodule "themes/webvis-theme"]
+	path = themes/webvis-theme
+	url = https://github.com/autay27/webvis-theme
